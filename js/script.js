@@ -4,8 +4,6 @@ var bil = {
 		turnOn: function () {
 			bil.isTurnedOn = true;
 		},
-			fly: function () {
-				alert('fly');
-			},
+			
 		
 	};
