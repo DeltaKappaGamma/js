@@ -4,3 +4,4 @@ var bil = {
 		turnOn: function () {
 			bil.isTurnedOn = true;
 		}
+	};
