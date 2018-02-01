@@ -4,6 +4,8 @@ var bil = {
 		turnOn: function () {
 			bil.isTurnedOn = true;
 		},
-			
+			if (bil.isTurnedOn == true) {
+				alert(bilpå)
+			}
 		
 	};
