@@ -5,7 +5,7 @@ var bil = {
 			bil.isTurnedOn = true;
 		},
 			if (isTurnedOn == true) {
-				alert('bilpå');
+				alert('bilpå');''
 			}
 		
 	};
